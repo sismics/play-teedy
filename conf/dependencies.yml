@@ -1,4 +1,4 @@
-self: play -> teedy 1.1.0
+self: play -> teedy 1.2.0
 
 configurations:
     - provided:
